@@ -1,0 +1,1 @@
+/home/muratkeskin/multiversstake/staking-contract/target/wasm32-unknown-unknown/release/staking_contract_wasm.wasm: /home/muratkeskin/multiversstake/staking-contract/src/staking_contract.rs /home/muratkeskin/multiversstake/staking-contract/wasm/src/lib.rs

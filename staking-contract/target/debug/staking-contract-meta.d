@@ -1,0 +1,1 @@
+/home/muratkeskin/multiversstake/staking-contract/target/debug/staking-contract-meta: /home/muratkeskin/multiversstake/staking-contract/meta/src/main.rs /home/muratkeskin/multiversstake/staking-contract/src/staking_contract.rs
